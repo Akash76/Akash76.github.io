@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.a6476dc6.chunk.css",
-    "main.js": "/static/js/main.0870e95f.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.3afde4e7.js",
+    "main.js": "/static/js/main.e3c01582.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.fd7d1a57.js",
     "static/css/2.0371faf3.chunk.css": "/static/css/2.0371faf3.chunk.css",
-    "static/js/2.3de1f30f.chunk.js": "/static/js/2.3de1f30f.chunk.js",
-    "static/js/3.cf24c669.chunk.js": "/static/js/3.cf24c669.chunk.js",
+    "static/js/2.4b5748ef.chunk.js": "/static/js/2.4b5748ef.chunk.js",
+    "static/js/3.61c96ed4.chunk.js": "/static/js/3.61c96ed4.chunk.js",
     "static/css/4.86ff3494.chunk.css": "/static/css/4.86ff3494.chunk.css",
-    "static/js/4.00b6106a.chunk.js": "/static/js/4.00b6106a.chunk.js",
-    "static/js/5.86f004dd.chunk.js": "/static/js/5.86f004dd.chunk.js",
-    "static/js/6.ba211476.chunk.js": "/static/js/6.ba211476.chunk.js",
-    "static/js/7.dcdcc7c4.chunk.js": "/static/js/7.dcdcc7c4.chunk.js",
+    "static/js/4.b629b130.chunk.js": "/static/js/4.b629b130.chunk.js",
+    "static/js/5.bcf28f2d.chunk.js": "/static/js/5.bcf28f2d.chunk.js",
+    "static/js/6.e2390fb0.chunk.js": "/static/js/6.e2390fb0.chunk.js",
+    "static/js/7.01cffeea.chunk.js": "/static/js/7.01cffeea.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.3de1f30f.chunk.js.LICENSE.txt": "/static/js/2.3de1f30f.chunk.js.LICENSE.txt",
+    "static/js/2.4b5748ef.chunk.js.LICENSE.txt": "/static/js/2.4b5748ef.chunk.js.LICENSE.txt",
+    "static/js/3.61c96ed4.chunk.js.LICENSE.txt": "/static/js/3.61c96ed4.chunk.js.LICENSE.txt",
     "static/media/bg.330e16fd.webp": "/static/media/bg.330e16fd.webp",
     "static/media/docker-ps.3c3bcd0c.webp": "/static/media/docker-ps.3c3bcd0c.webp",
+    "static/media/fabric.1131f26c.webp": "/static/media/fabric.1131f26c.webp",
     "static/media/hfdrm.8aa134fa.webp": "/static/media/hfdrm.8aa134fa.webp",
     "static/media/query.3dfa328e.webp": "/static/media/query.3dfa328e.webp",
     "static/media/tetrad.cd05c5dc.webp": "/static/media/tetrad.cd05c5dc.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.3afde4e7.js",
+    "static/js/runtime-main.fd7d1a57.js",
     "static/css/2.0371faf3.chunk.css",
-    "static/js/2.3de1f30f.chunk.js",
+    "static/js/2.4b5748ef.chunk.js",
     "static/css/main.a6476dc6.chunk.css",
-    "static/js/main.0870e95f.chunk.js"
+    "static/js/main.e3c01582.chunk.js"
   ]
 }
